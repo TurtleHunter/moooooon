@@ -1,7 +1,9 @@
-# moooooon
+# Moooooon
 Rainmeter skin that shows today's phase of the moon courtesy of Nasa.
 
 Built upon High Res Moon Phase by CyberTheWorm.
+
+# Download link is under Releases to the right -->
 
 
 ```Javascript
